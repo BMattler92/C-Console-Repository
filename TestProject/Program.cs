@@ -12,6 +12,7 @@ namespace TestProject
         static void Main(string[] args)
         {
             WriteLine("Is it Friday?");
+            WriteLine("Nope. Sleep for two more days. then it will be Friday.");
         }
     }
 }
